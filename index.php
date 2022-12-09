@@ -49,9 +49,9 @@
     </section>
 
     <header class="container mx-auto">
-      <div class="logo_kamenrider flex justify-center items-center px-10 mb-2">
-      <img class="w-6/12 transition ease-in-out delay-150 hover:-translate-x-1 hover:scale-105 duration-300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27d8f73d-bf9d-4284-8629-0ae5bf2036b8/de1nsqd-50dda385-1ee4-462a-aa81-9a7842ab7d6b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3ZDhmNzNkLWJmOWQtNDI4NC04NjI5LTBhZTViZjIwMzZiOFwvZGUxbnNxZC01MGRkYTM4NS0xZWU0LTQ2MmEtYWE4MS05YTc4NDJhYjdkNmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ElJA9tf5aczuBSYN6GFJ91eP8DW4EdWoO8fMrpmkFZM" alt="">
-      <iframe class="shadow-lg flex justify-center items-center rounded-lg border-4 border-b-rose-600 border-t-blue-700" width="1280" height="720" src="https://www.youtube.com/embed/0MKtHJXYtr8" title="Kamen Rider Build Henshin Lesson eng sub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="logo_kamenrider flex justify-center items-center px-10 py-2">
+      <img class="mb-2 transition ease-in-out delay-150 hover:-translate-x-1 hover:scale-105 duration-300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27d8f73d-bf9d-4284-8629-0ae5bf2036b8/de1nsqd-50dda385-1ee4-462a-aa81-9a7842ab7d6b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3ZDhmNzNkLWJmOWQtNDI4NC04NjI5LTBhZTViZjIwMzZiOFwvZGUxbnNxZC01MGRkYTM4NS0xZWU0LTQ2MmEtYWE4MS05YTc4NDJhYjdkNmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ElJA9tf5aczuBSYN6GFJ91eP8DW4EdWoO8fMrpmkFZM" alt="">
+      <iframe class="shadow-lg rounded-lg border-4 border-b-rose-600 border-t-blue-700" width="800" height="600" src="https://www.youtube.com/embed/0MKtHJXYtr8" title="Kamen Rider Build Henshin Lesson eng sub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
   
